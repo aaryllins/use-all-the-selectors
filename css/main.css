@@ -6,6 +6,10 @@ header {
   font-size: 1.5rem;
 }
 
+head {
+  text-transform: uppercase;
+}
+
 footer {
   font-size: 1.5rem;
 }
@@ -34,7 +38,7 @@ h2 {
   color: #fff;
 }
 
-html nav li {
+nav li:first-child {
   background-color: #719e07;
 }
 
@@ -59,5 +63,17 @@ ul li:last-child {
 }
 
 .types li:nth-child(3) {
+  background-color: #d04b16;
+}
+
+.types li:nth-child(6) {
+  background-color: #d04b16;
+}
+
+.types li:nth-child(9) {
+  background-color: #d04b16;
+}
+
+.types li:nth-child(12) {
   background-color: #d04b16;
 }
