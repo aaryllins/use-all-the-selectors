@@ -22,11 +22,11 @@ h2 {
   color: #93a1a1;
 }
 
-wrapper > .dfn {
+#wrapper .dfn {
   background-color: #b58900;
 }
 
-wrapper {
+#wrapper {
   background-color: #eee8d5;
 }
 
@@ -34,7 +34,7 @@ wrapper {
   color: #fff;
 }
 
-html nav li mark {
+html nav li {
   background-color: #719e07;
 }
 
